@@ -1,5 +1,3 @@
-This folder contains supplementary materials for the paper:
-*"SkinCancerAI: Image-based detection of skin cancer using hierarchical learning"*
 
 The folder contains:
 - List of class and sub class.pdf: file describing in detail the classification system for skin cancer detection,
