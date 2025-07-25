@@ -10,3 +10,12 @@ The folder contains:
     - ISIC_ID: identity of the image in the original ISIC dataset
     - duplicate_id: duplicate ID of the image, ranges from 0 to 1521 if available.
         Images with the same duplicate ID look almost the same.
+
+### Citation
+
+Please cite our paper: 
+Towards Robust Skin Lesion Classification: Lesion Segmentation, Mole Collision Simulation and Hierarchical learning.
+To be presented at CMMCA at MICCAI 2025
+
+## Ackownledgement
+This research is supported by [Torus AI](https://torus.ai) and [BelleTorus Corporation](https://belle.ai) and European Union's Horizon 2020 research and innovation program through Intelligent Total Body Scanner for Early Detection of Melanoma (iToBoS, grant agreement No. 965221).
